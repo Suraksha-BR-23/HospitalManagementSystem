@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 MediCare HMS — Hospital Management System
 
 A complete, fully-functional Hospital Management System built with **React** and **localStorage** (no backend required).
@@ -94,3 +95,6 @@ src/
     └── reports/
         └── ReportsPage.js
 ```
+=======
+# HospitalManagementSystem
+>>>>>>> e3e45e720f9ea8d26096ac3f14d5352f726ffb92
